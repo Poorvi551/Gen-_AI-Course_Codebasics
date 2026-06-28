@@ -47,6 +47,30 @@
 
 <img width="1907" height="1061" alt="Screenshot 2026-06-28 151844" src="https://github.com/user-attachments/assets/38c3c8b3-1b9d-4a12-91a1-695094fe0264" />
 
+## Large Language Model:
+
+<img width="1907" height="1068" alt="Screenshot 2026-06-28 152256" src="https://github.com/user-attachments/assets/8be98848-1f04-44d9-98db-715a42469b86" />
+
+* LLM learns from
+
+  <img width="1905" height="1057" alt="Screenshot 2026-06-28 152400" src="https://github.com/user-attachments/assets/28ec19fc-1148-490b-a5e6-2d310bcd10f9" />
+  
+ * while training open AI it used human intervention - RLFH to train the model based on the toxic and casual things.
+
+ * RLFH - Reinforcement learning with human feedback.
+
+ * Why LLM's are very powerful?
+ * They don't have: subjective experience, emotions and consciousness as humans have.
+
+   <img width="1907" height="1065" alt="Screenshot 2026-06-28 152808" src="https://github.com/user-attachments/assets/21efc221-0815-43cc-b2b3-98fe4a3a959d" />
+
+* LLMs work based on the data they have been trained on.
+
+* Some understanding of LLM using embeddings and vector database.
+
+
+
+
 
 
   
